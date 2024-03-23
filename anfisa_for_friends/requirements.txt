@@ -1,0 +1,6 @@
+asgiref==3.8.0
+Django==4.2.11
+-e git+https://github.com/jazzband/django-debug-toolbar.git@e8848dc77f3aefdb49731d4450f598d713d7f75d#egg=django_debug_toolbar
+pytz==2024.1
+sqlparse==0.4.4
+typing_extensions==4.10.0
